@@ -16,8 +16,6 @@
 
 Konsep dasar ECB adalah menyederhanakan enkripsi dengan memperlakukan setiap blok plaintext secara independen, yang membuatnya mudah diimplementasikan tetapi memiliki kelemahan keamanan tertentu.
 
-## Penjelasan kode
-
 ## Fungsi-fungsi:
 - `hex_to_bin`: Mengonversi string heksadesimal ke biner.
 - `bin_to_hex`: Mengonversi string biner ke heksadesimal.
