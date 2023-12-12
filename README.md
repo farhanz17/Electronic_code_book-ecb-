@@ -1,5 +1,13 @@
 # Electronic code book
 
+## Profil
+| #               | Biodata                      |
+| --------------- | ---------------------------- |
+| **Nama**        | Muhammad Farhan              |
+| **NIM**         | 312110128                    |
+| **Kelas**       | TI.21.A1                     |
+| **Mata Kuliah** | Kriptografi                  |
+
 1. Definisi: ECB adalah mode enkripsi simetris di mana setiap blok plaintext dienkripsi secara terpisah dengan kunci yang sama.
    
 2. Konsep Dasar: ECB membagi plaintext menjadi blok-blok yang sama dan mengenkripsi setiap blok secara terpisah. Hal ini menyebabkan blok-blok dengan isi yang sama akan menghasilkan ciphertext yang sama.
