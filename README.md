@@ -45,4 +45,5 @@ Konsep dasar ECB adalah menyederhanakan enkripsi dengan memperlakukan setiap blo
 
 ## Result
 
-<img width="571" alt="Screenshot 2023-12-12 084933" src="https://github.com/farhanz17/Electronic_code_book-ecb-/assets/92637117/8f027ec5-041a-491d-960d-2d4aad78f78e">
+<img width="548" alt="Screenshot 2023-12-12 093546" src="https://github.com/farhanz17/Electronic_code_book-ecb-/assets/92637117/da95b39c-fc1d-4921-9f50-21ee89160ca3">
+
